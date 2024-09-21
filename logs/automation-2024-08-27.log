@@ -1,0 +1,135 @@
+2024-08-27 16:36:58.114 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\pratham.kale\eclipse-workspace\OpencartV_01\testng.xml"
+2024-08-27 16:36:58.630 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\pratham.kale\eclipse-workspace\OpencartV_01\testng.xml
+
+2024-08-27 16:37:08.264 [main] INFO  testCases.TC_001_AccountRegisteration - ******* Starting TC_001_AccountRegisteration 
+2024-08-27 16:37:08.310 [main] INFO  testCases.TC_001_AccountRegisteration - Clicking on My account....
+2024-08-27 16:37:08.456 [main] INFO  testCases.TC_001_AccountRegisteration - Clicking on Register....
+2024-08-27 16:37:09.642 [main] INFO  testCases.TC_001_AccountRegisteration - Providing user details....
+2024-08-27 16:37:11.953 [main] INFO  testCases.TC_001_AccountRegisteration - Validating expected message on page....
+2024-08-27 16:37:12.017 [main] INFO  testCases.TC_001_AccountRegisteration - ******* Finished TC_001_AccountRegisteration 
+2024-08-27 16:37:28.446 [main] INFO  testCases.TC_002_LoginTest - ******* Starting TC_002_login test 
+2024-08-27 16:37:29.201 [main] INFO  testCases.TC_002_LoginTest - Setting username...
+2024-08-27 16:37:29.367 [main] INFO  testCases.TC_002_LoginTest - Setting password...
+2024-08-27 16:37:29.489 [main] INFO  testCases.TC_002_LoginTest - clicking on login button...
+2024-08-27 16:37:30.671 [main] INFO  testCases.TC_002_LoginTest - confirming successful login...
+2024-08-27 16:37:30.782 [main] INFO  testCases.TC_002_LoginTest - Clicking on logout button.....
+2024-08-27 18:14:50.775 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\pratham.kale\eclipse-workspace\OpencartV_01\grouping.xml"
+2024-08-27 18:14:51.202 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\pratham.kale\eclipse-workspace\OpencartV_01\grouping.xml
+
+2024-08-27 18:15:43.083 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\pratham.kale\eclipse-workspace\OpencartV_01\grouping.xml"
+2024-08-27 18:15:43.461 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\pratham.kale\eclipse-workspace\OpencartV_01\grouping.xml
+
+2024-08-27 18:16:00.937 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\pratham.kale\eclipse-workspace\OpencartV_01\testng.xml"
+2024-08-27 18:16:01.339 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\pratham.kale\eclipse-workspace\OpencartV_01\testng.xml
+
+2024-08-27 18:16:16.648 [main] INFO  testCases.TC_001_AccountRegisteration - ******* Starting TC_001_AccountRegisteration 
+2024-08-27 18:16:16.694 [main] INFO  testCases.TC_001_AccountRegisteration - Clicking on My account....
+2024-08-27 18:16:16.798 [main] INFO  testCases.TC_001_AccountRegisteration - Clicking on Register....
+2024-08-27 18:16:17.804 [main] INFO  testCases.TC_001_AccountRegisteration - Providing user details....
+2024-08-27 18:16:19.857 [main] INFO  testCases.TC_001_AccountRegisteration - Validating expected message on page....
+2024-08-27 18:16:19.924 [main] INFO  testCases.TC_001_AccountRegisteration - ******* Finished TC_001_AccountRegisteration 
+2024-08-27 18:16:44.507 [main] INFO  testCases.TC_002_LoginTest - ******* Starting TC_002_login test 
+2024-08-27 18:16:45.403 [main] INFO  testCases.TC_002_LoginTest - Setting username...
+2024-08-27 18:16:45.611 [main] INFO  testCases.TC_002_LoginTest - Setting password...
+2024-08-27 18:16:45.736 [main] INFO  testCases.TC_002_LoginTest - clicking on login button...
+2024-08-27 18:16:46.844 [main] INFO  testCases.TC_002_LoginTest - confirming successful login...
+2024-08-27 18:16:46.946 [main] INFO  testCases.TC_002_LoginTest - Clicking on logout button.....
+2024-08-27 18:17:13.429 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-27 18:17:13.433 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-27 18:17:13.437 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-08-27 18:17:14.156 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-27 18:17:14.158 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-27 18:17:14.159 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-08-27 18:17:14.193 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-27 18:17:14.195 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-27 18:17:14.197 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-08-27 18:17:14.244 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-27 18:17:14.246 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-27 18:17:14.248 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-08-27 18:17:14.288 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-27 18:17:14.290 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-27 18:17:14.291 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-08-27 18:17:14.325 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-27 18:17:14.327 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-27 18:17:14.329 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-08-27 18:17:14.366 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-27 18:17:14.367 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-27 18:17:14.369 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-08-27 18:17:14.409 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-27 18:17:14.410 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-27 18:17:14.412 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-08-27 18:17:14.457 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-27 18:17:14.459 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-27 18:17:14.460 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-08-27 18:17:14.494 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-27 18:17:14.495 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-27 18:17:14.497 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-08-27 18:17:14.538 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-27 18:17:14.539 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-27 18:17:14.541 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-08-27 18:17:14.579 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-27 18:17:14.580 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-27 18:17:14.581 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-08-27 18:17:14.617 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-27 18:17:14.619 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-27 18:17:14.620 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-08-27 18:17:14.654 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-27 18:17:14.655 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-27 18:17:14.656 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-08-27 18:17:14.686 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-27 18:17:14.688 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-27 18:17:14.690 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-08-27 18:17:14.722 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-27 18:17:14.723 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-27 18:17:14.724 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-08-27 18:17:14.751 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-27 18:17:14.752 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-27 18:17:14.753 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-08-27 18:20:05.755 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\pratham.kale\eclipse-workspace\OpencartV_01\grouping.xml"
+2024-08-27 18:20:06.271 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\pratham.kale\eclipse-workspace\OpencartV_01\grouping.xml
+
+2024-08-27 18:22:28.182 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\pratham.kale\eclipse-workspace\OpencartV_01\grouping.xml"
+2024-08-27 18:22:28.557 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\pratham.kale\eclipse-workspace\OpencartV_01\grouping.xml
+
+2024-08-27 18:24:51.593 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\pratham.kale\eclipse-workspace\OpencartV_01\grouping.xml"
+2024-08-27 18:24:51.987 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\pratham.kale\eclipse-workspace\OpencartV_01\grouping.xml
+
+2024-08-27 18:25:01.305 [main] INFO  testCases.TC_001_AccountRegisteration - ******* Starting TC_001_AccountRegisteration 
+2024-08-27 18:25:01.330 [main] INFO  testCases.TC_001_AccountRegisteration - Clicking on My account....
+2024-08-27 18:25:01.413 [main] INFO  testCases.TC_001_AccountRegisteration - Clicking on Register....
+2024-08-27 18:25:02.884 [main] INFO  testCases.TC_001_AccountRegisteration - Providing user details....
+2024-08-27 18:25:05.226 [main] INFO  testCases.TC_001_AccountRegisteration - Validating expected message on page....
+2024-08-27 18:25:05.281 [main] INFO  testCases.TC_001_AccountRegisteration - ******* Finished TC_001_AccountRegisteration 
+2024-08-27 18:25:20.690 [main] INFO  testCases.TC_002_LoginTest - ******* Starting TC_002_login test 
+2024-08-27 18:25:21.429 [main] INFO  testCases.TC_002_LoginTest - Setting username...
+2024-08-27 18:25:21.566 [main] INFO  testCases.TC_002_LoginTest - Setting password...
+2024-08-27 18:25:21.670 [main] INFO  testCases.TC_002_LoginTest - clicking on login button...
+2024-08-27 18:25:22.683 [main] INFO  testCases.TC_002_LoginTest - confirming successful login...
+2024-08-27 18:25:22.782 [main] INFO  testCases.TC_002_LoginTest - Clicking on logout button.....
+2024-08-27 18:27:25.901 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\pratham.kale\eclipse-workspace\OpencartV_01\grouping.xml"
+2024-08-27 18:27:26.354 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\pratham.kale\eclipse-workspace\OpencartV_01\grouping.xml
+
+2024-08-27 18:27:37.762 [main] INFO  testCases.TC_001_AccountRegisteration - ******* Starting TC_001_AccountRegisteration 
+2024-08-27 18:27:37.807 [main] INFO  testCases.TC_001_AccountRegisteration - Clicking on My account....
+2024-08-27 18:27:37.916 [main] INFO  testCases.TC_001_AccountRegisteration - Clicking on Register....
+2024-08-27 18:27:40.261 [main] INFO  testCases.TC_001_AccountRegisteration - Providing user details....
+2024-08-27 18:27:42.764 [main] INFO  testCases.TC_001_AccountRegisteration - Validating expected message on page....
+2024-08-27 18:27:42.819 [main] INFO  testCases.TC_001_AccountRegisteration - ******* Finished TC_001_AccountRegisteration 
+2024-08-27 18:27:58.398 [main] INFO  testCases.TC_002_LoginTest - ******* Starting TC_002_login test 
+2024-08-27 18:27:59.053 [main] INFO  testCases.TC_002_LoginTest - Setting username...
+2024-08-27 18:27:59.179 [main] INFO  testCases.TC_002_LoginTest - Setting password...
+2024-08-27 18:27:59.294 [main] INFO  testCases.TC_002_LoginTest - clicking on login button...
+2024-08-27 18:28:00.396 [main] INFO  testCases.TC_002_LoginTest - confirming successful login...
+2024-08-27 18:28:01.882 [main] INFO  testCases.TC_002_LoginTest - ******* Finished TC_002_Login test
+2024-08-27 18:48:09.114 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\pratham.kale\eclipse-workspace\OpencartV_01\grouping.xml"
+2024-08-27 18:48:09.690 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\pratham.kale\eclipse-workspace\OpencartV_01\grouping.xml
+
