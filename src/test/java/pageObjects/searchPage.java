@@ -1,6 +1,11 @@
 package pageObjects;
 
-public class searchPage 
+import org.openqa.selenium.WebDriver;
+
+public class searchPage extends basePage
 {
-	//to be implemented
+	public searchPage(WebDriver driver)
+	{
+		super(driver);
+	}	
 }
